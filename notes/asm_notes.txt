@@ -1,0 +1,10 @@
+# x86/x64 assembly reference
+# last updated: 2022-08-03
+
+mov eax, 1      ; syscall number
+xor ebx, ebx   ; clear register
+int 0x80        ; interrupt
+
+# calling conventions:
+# x64 linux: rdi, rsi, rdx, rcx, r8, r9
+# x86 linux: ebx, ecx, edx, esi, edi
