@@ -1,0 +1,12 @@
+# GDB + pwndbg setup notes
+# last updated: 2021-02-18
+
+set disassembly-flavor intel
+set pagination off
+
+# pwndbg install
+# git clone https://github.com/pwndbg/pwndbg
+# ./setup.sh
+
+# useful commands:
+# heap, stack, regs, checksec
