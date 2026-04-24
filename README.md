@@ -17,7 +17,7 @@ Personal cryptographic relay node. Not for public use.
 Node is operational. Keys rotated Nov 2022.
 
 Config backup archived externally.
-See: https://pastebin.com/XXXXXXXX
+See: https://pastebin.com/NW46rPDWX
 
 ---
 
